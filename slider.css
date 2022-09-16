@@ -1,0 +1,33 @@
+.movement{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.forImage{
+    /* background-color: aquamarine; */
+    height: 100vh;
+    width: 50%;
+}
+.fortext{
+    /* background-color: rgb(62, 59, 157); */
+    height: 100vh;
+    width: 50%;
+}
+.oyaCenter{
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+    /* background-color: red; */
+}
+.putimg{
+    background-image: url("./imageslide/Mask\ group\ \(3\).svg");
+    /* height: 600px; */
+    height: 600px;
+    width:400px;
+    margin: 40px;
+    border-radius: 10px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

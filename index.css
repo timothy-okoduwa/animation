@@ -1,0 +1,11 @@
+.current a {
+  color:red;
+}
+
+.tab-content {
+  display:none;
+}
+
+#tab-1 {
+  display:block;
+}
